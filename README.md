@@ -1,20 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,50:0B1220,100:00E5FF&text=MATHEUS%20MACEDO&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=DESENVOLVIMENTO%20DE%20SOFTWARE%20%7C%20IA%20%7C%20AUTOMA%C3%87%C3%83O&descAlignY=60&descSize=17&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:050505,50:0B1220,100:00E5FF&text=MATHEUS%20MACEDO&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=Desenvolvimento%20de%20Software%20•%20IA%20•%20Automa%C3%A7%C3%A3o&descAlignY=62&descSize=20&animation=fadeIn" alt="Matheus Macedo"/>
 
 <a href="https://github.com/matheusmacode">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=850&height=70&lines=Transformando+ideias+em+software+%F0%9F%9A%80;Aprendendo+programando+e+construindo;Intelig%C3%AAncia+Artificial+%7C+Automa%C3%A7%C3%A3o+%7C+Sistemas;Sempre+aprendendo.+Sempre+construindo." alt="Animação de texto"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&height=60&lines=Transformando+ideias+em+software+%F0%9F%9A%80;Aprendendo+na+pr%C3%A1tica%2C+construindo+todo+dia;IA+%7C+Automa%C3%A7%C3%A3o+%7C+APIs+%7C+Sistemas" alt="Typing SVG"/>
 </a>
 
+<br>
+
+<a href="https://www.linkedin.com/in/matheus-macedo-ab7038441"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
+<a href="https://www.instagram.com/matheus.macedev"><img src="https://img.shields.io/badge/Instagram-0B1220?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram"/></a>
+<a href="mailto:matheus.inovamacedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-0B1220?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+<a href="https://github.com/matheusmacode"><img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
+
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-ESTUDANDO%20%26%20CONSTRUINDO-00E5FF?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/FOCO-IA%20%7C%20AUTOMA%C3%87%C3%83O-0B1220?style=for-the-badge&labelColor=00E5FF&color=0B1220"/>
-<img src="https://img.shields.io/badge/BASE-TR%C3%8AS%20LAGOAS%20MS-050505?style=for-the-badge&labelColor=00E5FF"/>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=matheusmacode&label=VISITAS+AO+PERFIL&color=00E5FF&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/📍_Três_Lagoas-MS_•_Brasil_🇧🇷-050505?style=flat-square&labelColor=00E5FF&color=050505" alt="Localização"/>
+<img src="https://img.shields.io/badge/🎓_Status-Estudando_&_Construindo-050505?style=flat-square&labelColor=00E5FF&color=050505" alt="Status"/>
+<img src="https://komarev.com/ghpvc/?username=matheusmacode&label=Visitas&color=00E5FF&style=flat-square&labelColor=050505" alt="Visitas"/>
 
 </div>
 
@@ -24,239 +27,132 @@
 
 <div align="center">
 
-# 👋 Olá, eu sou o Matheus!
-
-### 💻 Estudante de Desenvolvimento de Software
-### 🤖 Interessado em Inteligência Artificial, Automação e Sistemas
-
-📍 **Três Lagoas, Mato Grosso do Sul — Brasil 🇧🇷**
+## 👋 Olá, eu sou o Matheus
 
 </div>
 
+Sou estudante de **Desenvolvimento de Software** e aprendo **colocando a mão no código**. Meu objetivo é transformar ideias em projetos reais, entender como as coisas funcionam por trás dos sistemas e evoluir através da prática.
+
+Hoje estou construindo minha base em **IA, automação, APIs e banco de dados**.
+
+> 💡 **Não estou aqui só para aprender tecnologia. Estou aqui para construir com ela.**
+
 <br>
-
-Sou estudante de programação e gosto de **aprender colocando a mão no código**.
-
-Meu objetivo é transformar ideias em projetos reais, entender como as tecnologias funcionam por trás dos sistemas e continuar evoluindo através da prática.
-
-Hoje estou construindo minha experiência em **desenvolvimento de software, Inteligência Artificial, automação, APIs e bancos de dados**.
-
-> **Não estou aqui apenas para aprender tecnologia. Estou aqui para construir com ela. 🚀**
 
 ---
 
 <div align="center">
 
-# ⚡ Terminal do Matheus
+## ⚡ Terminal
 
 </div>
 
 ```bash
 matheus@dev:~$ whoami
-> Matheus Macedo | Estudante de Desenvolvimento de Software
+Matheus Macedo — Estudante de Desenvolvimento de Software
 
-matheus@dev:~$ cat location.txt
-> Três Lagoas, MS — Brasil 🇧🇷
-
-matheus@dev:~$ cat interesses.txt
-> Inteligência Artificial | Automação | APIs | Banco de Dados | Sistemas
+matheus@dev:~$ cat foco.txt
+Inteligência Artificial | Automação | APIs | Banco de Dados
 
 matheus@dev:~$ cat mindset.txt
-> Aprender na prática. Errar rápido. Corrigir. Evoluir. Repetir. 🔁
+Aprender na prática. Errar rápido. Corrigir. Evoluir. Repetir. 🔁
 
 matheus@dev:~$ ./status.sh
-> [██████████████████░░] Aprendendo sempre
-> [████████████████████] Construindo projetos
-> [███████████████████░] Café ☕
+[█████████████████░░░] Aprendendo sempre
+[████████████████████] Construindo projetos
+[███████████████████░] Café ☕
 
 matheus@dev:~$ _
 ```
 
+<br>
+
 ---
 
 <div align="center">
 
-# 🎯 Foco Atual
+## 🎯 Foco atual
 
-</div>
-
-<table align="center">
+<table>
 <tr>
-<td align="center" width="25%">
-
-### 🤖
-**Inteligência Artificial**
-<br>
-Estudando como usar IA em projetos reais
-
-</td>
-<td align="center" width="25%">
-
-### ⚙️
-**Automação**
-<br>
-Criando fluxos que economizam tempo
-
-</td>
-<td align="center" width="25%">
-
-### 🔌
-**APIs**
-<br>
-Integrando serviços e sistemas
-
-</td>
-<td align="center" width="25%">
-
-### 🗄️
-**Banco de Dados**
-<br>
-Modelagem e consultas eficientes
-
-</td>
+<td align="center" width="25%">🤖<br><b>Inteligência Artificial</b><br><sub>Usando IA em projetos reais</sub></td>
+<td align="center" width="25%">⚙️<br><b>Automação</b><br><sub>Fluxos que economizam tempo</sub></td>
+<td align="center" width="25%">🔌<br><b>APIs</b><br><sub>Integração entre sistemas</sub></td>
+<td align="center" width="25%">🗄️<br><b>Banco de Dados</b><br><sub>Modelagem e consultas</sub></td>
 </tr>
 </table>
 
----
-
-<div align="center">
-
-# 🛠️ Tecnologias & Ferramentas
-
-<img src="https://skillicons.dev/icons?i=py,js,ts,html,css,react,nodejs,git,github,vscode,linux&theme=dark" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,figma,postman&theme=dark" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/JavaScript-050505?style=for-the-badge&logo=javascript&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/OpenAI-050505?style=for-the-badge&logo=openai&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Git-050505?style=for-the-badge&logo=git&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-
 </div>
-
-> 💡 *Ajuste os ícones conforme o que você realmente usa. É só trocar a lista em `?i=`.*
-
----
-
-<div align="center">
-
-# 📊 Estatísticas do GitHub
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=matheusmacode&show_icons=true&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF&ring_color=00E5FF&count_private=true&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmacode&layout=compact&hide_border=true&bg_color=0B1220&title_color=00E5FF&text_color=FFFFFF&langs_count=8" />
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=matheusmacode&hide_border=true&background=0B1220&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00E5FF&sideLabels=00E5FF&dates=8B949E" />
+---
+
+<div align="center">
+
+## 🛠️ Stack & ferramentas
+
+<img src="https://skillicons.dev/icons?i=py,js,html,css,git,github,vscode,linux&theme=dark" alt="Stack"/>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,postman,figma&theme=dark" alt="Ferramentas"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/APIs_REST-0B1220?style=for-the-badge&logo=fastapi&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/Automação-0B1220?style=for-the-badge&logo=zapier&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/IA-0B1220?style=for-the-badge&logo=openai&logoColor=00E5FF"/>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-# 📈 Gráfico de Atividade
+## 📊 Atividade
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=matheusmacode&bg_color=050505&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=00E5FF&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=matheusmacode&theme=dark&hide_border=true&background=0B1220&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=00E5FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Streak"/>
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/matheusmacode/matheusmacode/output/snake-cyan.svg" alt="Cobrinha comendo meus commits"/>
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-# 🏆 Troféus
-
-<img src="https://github-profile-trophy.vercel.app/?username=matheusmacode&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" />
-
-</div>
-
----
-
-<div align="center">
-
-# 🚀 Projetos em Destaque
-
-*(troque `NOME-DO-REPOSITORIO` pelos nomes dos seus repositórios)*
-
-<a href="https://github.com/matheusmacode/NOME-DO-REPOSITORIO-1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmacode&repo=NOME-DO-REPOSITORIO-1&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/matheusmacode/NOME-DO-REPOSITORIO-2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmacode&repo=NOME-DO-REPOSITORIO-2&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
-</a>
-
-<a href="https://github.com/matheusmacode/NOME-DO-REPOSITORIO-3">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmacode&repo=NOME-DO-REPOSITORIO-3&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/matheusmacode/NOME-DO-REPOSITORIO-4">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=matheusmacode&repo=NOME-DO-REPOSITORIO-4&hide_border=true&bg_color=0B1220&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 🗺️ Minha Jornada
+## 🗺️ Jornada
 
 </div>
 
 ```text
-📍 Início        →  Primeiros códigos e lógica de programação
-📍 Agora         →  Projetos práticos, IA, automação e APIs
-📍 Próximo passo →  Projetos maiores, portfólio forte e primeira oportunidade na área
-📍 Meta          →  Construir soluções reais com tecnologia 🚀
+📍 Início     →  Lógica de programação e primeiros códigos
+📍 Agora      →  Projetos práticos com IA, automação e APIs
+📍 Próximo    →  Portfólio forte e primeira oportunidade na área
+📍 Meta       →  Construir soluções reais com tecnologia 🚀
 ```
-
----
-
-<div align="center">
-
-# 🌱 O que estou aprendendo
-
-<img src="https://img.shields.io/badge/-Python%20avan%C3%A7ado-050505?style=for-the-badge&labelColor=00E5FF&color=050505"/>
-<img src="https://img.shields.io/badge/-APIs%20REST-050505?style=for-the-badge&labelColor=00E5FF&color=050505"/>
-<img src="https://img.shields.io/badge/-Automa%C3%A7%C3%A3o-050505?style=for-the-badge&labelColor=00E5FF&color=050505"/>
-<img src="https://img.shields.io/badge/-IA%20Aplicada-050505?style=for-the-badge&labelColor=00E5FF&color=050505"/>
-<img src="https://img.shields.io/badge/-Banco%20de%20Dados-050505?style=for-the-badge&labelColor=00E5FF&color=050505"/>
-<img src="https://img.shields.io/badge/-Git%20%26%20GitHub-050505?style=for-the-badge&labelColor=00E5FF&color=050505"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 📫 Vamos conversar?
-
-<a href="https://github.com/matheusmacode">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-</a>
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
-</a>
-<a href="mailto:SEU-EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
-</a>
-<a href="https://www.instagram.com/SEU-INSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-050505?style=for-the-badge&logo=instagram&logoColor=00E5FF"/>
-</a>
-
-<br><br>
-
-### 💬 *"O melhor jeito de aprender é construir."*
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Obrigado+por+visitar+meu+perfil+%F0%9F%92%99;Vamos+construir+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" />
+---
 
-</div>
+<div align="center">
+
+## 📫 Vamos conversar?
+
+<a href="mailto:matheus.inovamacedo@gmail.com"><img src="https://img.shields.io/badge/matheus.inovamacedo@gmail.com-0B1220?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=00E5FF&center=true&vCenter=true&width=600&lines=Obrigado+por+visitar+meu+perfil+%F0%9F%92%99;Vamos+construir+algo+incr%C3%ADvel+juntos+%F0%9F%9A%80" alt="Obrigado"/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,50:0B1220,100:050505&section=footer"/>
+
+</div>
